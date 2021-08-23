@@ -101,7 +101,7 @@ hr{
  background-color: var(--off-white);
 }
 .section-img{
-    max-width: 600px;
+    max-width: 350px;
     display: block;
     padding: 3rem;
 }
