@@ -101,6 +101,27 @@ hr{
 .ow{
  background-color: var(--off-white);
 }
+.section-img{
+    max-width: 600px;
+    display: block;
+    padding: 3rem;
+}
+.section-heading{
+    font-size: 30px;
+    margin-bottom: 0px;
+    font-family: Montserrat,sans-serif;
+}
+
+/**margin and padding**/
+.footer-margin-mt{
+    margin-top: 4rem;
+}
+.hero-padding-bottom{
+    padding-bottom: 0px;
+}
+.link-pl{
+    padding-left: 0px;
+}
 
 /**footer**/
 .footer{
@@ -110,9 +131,18 @@ hr{
     color: white;
     border-top-right-radius: 2rem;
 }
+.footer .footer-header{
+    font-weight: bold;
+    font-size: x-large;
+}
 .footer .link{
     color: white;
 }
 .footer ul{
     padding-inline-start: 0px;
+}
+
+/**icons**/
+.fab{
+    font-size: x-large;
 }
